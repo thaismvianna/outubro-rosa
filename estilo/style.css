@@ -10,11 +10,11 @@ ORGANIZAR SUA PALETA DE CORES:
 #3f042e
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet');
 
 @font-face {
     font-family: Atkinson;
-    src: url(../fontes/Atkinson_Hyperlegible_Next/AtkinsonHyperlegibleNext-Italic-VariableFont_wght.ttf) format(ttf);
+    src: url(../fontes/Rubik/Rubik-Italic-VariableFont_wght.ttf) format(ttf);
     font-weight: normal;
 }
 
@@ -29,8 +29,8 @@ ORGANIZAR SUA PALETA DE CORES:
     --cor5: #3f042e;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque: "Atkinson Hyperlegible Next", serif;
-    --fonte-atkinson: 'Aktinson', cursive;
+    --fonte-destaque: "Rubik", serif;
+    --fonte-rubik: 'Rubik', cursive;
 }
 
 * {
