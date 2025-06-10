@@ -34,7 +34,7 @@ Este repositório contém uma página desenvolvida com **HTML5** e **CSS3**, com
 
  ## 🌐 Visualize o Projeto
 
-🔗 [Clique aqui para acessar o projeto online](https://thaismvianna.github.io/projeto-outubro-rosa/)  
+🔗 [Clique aqui para acessar o projeto online].(https://thaismvianna.github.io/outubro-rosa/)
 *Você pode visualizar a página e testar sua responsividade em diferentes tamanhos de tela.*
 
 Desenvolvido por Thaís Vianna
