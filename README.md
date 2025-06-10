@@ -34,7 +34,7 @@ Este repositório contém uma página desenvolvida com **HTML5** e **CSS3**, com
 
  ## 🌐 Visualize o Projeto
 
-Veja o formulário funcionando neste link:
+Veja o projeto funcionando neste link:
 
 https://thaismvianna.github.io/outubro-rosa/
 
